@@ -5,6 +5,7 @@
 - 🎓 I'm currently studying for Bsc. (Hons.) in IT at **SLIIT**
 
 - 📫 You can reach me at **akilaimalsha@gmail.com**
+- my portfolio **https://akila-liyanage.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
