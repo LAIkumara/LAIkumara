@@ -26,7 +26,7 @@
 ```typescript
 const akila = {
     education: "BSc. (Hons.) IT @ SLIIT",
-    currentFocus: ["Cloud Architecture", "AI/ML Solutions", "Mobile Innovation"],
+    currentFocus: ["MERN stack", "AI/ML Solutions", "Mobile Innovation"],
     passions: ["Problem Solving", "Open Source", "Tech Innovation"],
     motto: "Code with purpose, build with passion! 🔥"
 };
@@ -55,19 +55,16 @@ const akila = {
 ### 🔧 **Backend & APIs**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### ☁️ **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### 🗄️ **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🤖 **AI & Machine Learning**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -77,7 +74,6 @@ const akila = {
 ### 🎨 **Design & Creative**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Creative Suite](https://img.shields.io/badge/Adobe%20Creative%20Suite-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Suite&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 
 </div>
@@ -107,10 +103,10 @@ const akila = {
 ```json
 {
   "🎯 focus": "Building scalable cloud-native applications",
-  "📚 learning": "Advanced Machine Learning & Kubernetes",
+  "📚 learning": "Developing Mern stack projects",
   "🤝 collaboration": "Open source projects & innovative startups",
   "💡 interests": "AI Ethics, Quantum Computing, Web3",
-  "🌟 goal_2024": "Contribute to 50+ open source projects"
+  "🌟 goal_2025": "Contribute to 20+ open source projects"
 }
 ```
 
