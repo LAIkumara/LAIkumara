@@ -28,7 +28,7 @@ const akila = {
     education: "BSc. (Hons.) IT @ SLIIT",
     currentFocus: ["MERN Stack", "AI/ML Solutions", "Mobile Innovation"],
     passions: ["Problem Solving", "Open Source", "Tech Innovation"],
-    location: "Sri Lanka 🇱🇰",
+    location: "Colombo 🇱🇰",
     motto: "Code with purpose, build with passion! 🔥"
 };
 ```
@@ -119,13 +119,6 @@ const akila = {
 
 ### 🔥 **Commit Streak & Activity**
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akila-liyanage&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF)
-
-</div>
-
-<div align="center">
-
-### 📊 **Contribution Graph**
-![Akila's github activity graph](https://github-readme-activity-graph.vercel.app/api/activity-graph?username=akila-liyanage&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true)
 
 </div>
 
