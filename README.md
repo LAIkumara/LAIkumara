@@ -114,14 +114,6 @@ const akila = {
 
 ## 📊 **GitHub Analytics & Commit Activity**
 
-<div align="center">
-
-### 📈 **GitHub Statistics**
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akila-liyanage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akila-liyanage&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&card_width=320"/>
-
-</div>
 
 <div align="center">
 
@@ -147,16 +139,6 @@ const akila = {
 
 </div>
 
----
-
-## 🏗️ **Featured Projects**
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akila-liyanage&repo=your-main-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9)](https://github.com/akila-liyanage/your-main-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akila-liyanage&repo=another-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9)](https://github.com/akila-liyanage/another-project)
-
-</div>
 
 ---
 
